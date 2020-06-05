@@ -9,4 +9,6 @@ fun display() {
 }
 
 fun myNewFeature() {
+	// more logics here
+	// my feature 2
 }
