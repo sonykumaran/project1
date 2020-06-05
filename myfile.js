@@ -7,3 +7,10 @@ for(let i =0; i <= 10; i+=2) {
 fun display() {
 	//some logic here
 }
+
+fun myNewFeature() {
+	// more logics here
+	// my feature 2
+
+	// more feature 3
+}
