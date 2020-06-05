@@ -7,3 +7,6 @@ for(let i =0; i <= 10; i++) {
 fun display() {
 	//some logic here
 }
+
+fun myNewFeature() {
+}
